@@ -1,2 +1,3 @@
 # shooter
-shooter in python
+игра шутер версий 1.0
+
